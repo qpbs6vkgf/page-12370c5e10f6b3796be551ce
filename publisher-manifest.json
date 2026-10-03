@@ -1,0 +1,124 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "cbde0712585ebb8089422725",
+  "owner": "qpbs6vkgf",
+  "repo": "page-12370c5e10f6b3796be551ce",
+  "title": "破烂小屋",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "12370c5e10f6b3796be551ce",
+      "a": "破烂小屋",
+      "b": "",
+      "entity": "破烂小屋",
+      "brand": "破烂小屋",
+      "separator": "",
+      "path": "index.html",
+      "hash": "73948b4547bbcf5b6d200946f38977cfb3bc4b43ac38d3aeab0ce2308a3f05d8",
+      "content": {
+        "keyword1": "破烂小屋",
+        "keyword2": "",
+        "primary_entity": "破烂小屋",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "破烂小屋提供稳定可靠的机场订阅与VPN网络加速服务，覆盖多套餐流量与设备支持，官方网站可直接下载各平台客户端并获取订阅。",
+          "AI_DESCRIPTION": "破烂小屋提供稳定可靠的机场订阅与VPN网络加速服务，覆盖多套餐流量与设备支持，官方网站可直接下载各平台客户端并获取订阅。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>html,body{margin:0;padding:0;width:100%;overflow-x:hidden}body{font-family:system-ui,-apple-system,BlinkMacSystemFont,\"Segoe UI\",sans-serif;font-size:16px;line-height:1.7;color:#1f2937;background:#f3f4f6}*{box-sizing:border-box}a{color:#6d28d9;text-decoration:none}a:hover{text-decoration:underline}header{background:linear-gradient(180deg,#6d28d9 0%,#5b21b6 100%);color:#fff;padding:72px 20px 88px;text-align:center}h1{font-size:2.35rem;font-weight:700;letter-spacing:.12em;margin:0 0 14px;line-height:1.25}.lead{font-size:1.05rem;opacity:.92;max-width:36em;margin:0 auto}nav{background:#4c1d95;padding:10px 12px;text-align:center}nav a{color:#ede9fe;margin:0 8px;font-size:15px;display:inline-block;padding:6px 4px}.wrap{max-width:960px;margin:0 auto;padding:20px 16px}main{display:block}section{background:#fff;border-radius:10px;padding:22px 18px;margin:0 0 20px;box-shadow:0 1px 2px rgba(17,24,39,.06)}h2{color:#5b21b6;font-size:1.45rem;margin:0 0 14px;padding-bottom:8px;border-bottom:2px solid #ddd6fe}h3{color:#6d28d9;font-size:1.12rem;margin:18px 0 8px}p,li{margin:0 0 10px}ul{padding-left:1.2em}.plans{display:flex;flex-wrap:wrap;gap:14px;justify-content:center}.plan{flex:1 1 250px;max-width:100%;border:1px solid #e5e7eb;border-radius:10px;padding:18px;background:#fafafa}.plan.featured{border:2px solid #7c3aed;background:#f5f3ff;position:relative}.badge{position:absolute;top:-11px;right:14px;background:#7c3aed;color:#fff;font-size:12px;padding:3px 9px;border-radius:4px}.price{font-size:1.7rem;font-weight:700;color:#5b21b6;margin:8px 0 4px}.annual{font-size:.9rem;color:#6b7280;margin-bottom:10px}details{border:1px solid #e5e7eb;border-radius:8px;padding:10px 12px;margin:0 0 10px;background:#f9fafb}summary{font-weight:600;color:#5b21b6}details p{margin:8px 0 0;color:#374151}.note{font-size:.92rem;color:#4b5563}footer{background:#1e1b4b;color:#e5e7eb;padding:28px 16px 36px;font-size:14px}footer h2{color:#ddd6fe;border-bottom-color:#4c1d95;font-size:1.1rem}footer a{color:#c4b5fd}.cols{display:flex;flex-wrap:wrap;gap:16px}.cols>div{flex:1 1 240px}.map a,.friends a{margin-right:10px;display:inline-block;margin-bottom:6px}</style><header><h1>破烂小屋</h1><p class=\"lead\">官方网站 · 机场订阅 · VPN 网络加速器 · 多平台客户端下载</p></header><nav><a href=\"#intro\">品牌简介</a><a href=\"#plans\">套餐对比</a><a href=\"#scenes\">使用场景</a><a href=\"#guide\">操作说明</a><a href=\"#download\">客户端下载</a><a href=\"#faq\">常见问题</a></nav><div class=\"wrap\"><main><section id=\"intro\"><h2>品牌简介</h2><p>破烂小屋是面向个人与小团队的官方机场服务，专注把稳定线路、清晰套餐和可落地的客户端下载放在同一站点。我们以订阅制提供网络加速，节点覆盖常用地区，线路包含常规优化与 IPLC 专线，便于办公协同、资料访问、流媒体播放与游戏加速。</p><p>作为破烂小屋官方网站，本页集中说明套餐权益、导入步骤与客户端获取方式。请仅通过官网公布的渠道获取订阅与安装包，避免来源不明的配置造成连接失败或账号风险。</p><p class=\"note\">服务定位：机场订阅 + VPN 加速器能力；支持多设备同时在线；流量按自然月重置。节点会持续维护，重大变更以站内公告为准。</p></section><section id=\"plans\"><h2>套餐对比</h2><p>按流量、设备数与线路等级选择即可。年付可锁定当前价格。旗舰版适合日常高强度使用，团队版面向多成员共享。</p><div class=\"plans\"><article class=\"plan\"><h3>基础版</h3><p class=\"price\">¥15/月</p><p class=\"annual\">按年付仅需 ¥150/年</p><ul><li>每月 100GB 极速流量</li><li>支持 3 台设备同时在线</li><li>解锁基础流媒体</li><li>普通线路节点池</li></ul></article><article class=\"plan featured\"><span class=\"badge\">推荐</span><h3>旗舰版</h3><p class=\"price\">¥35/月</p><p class=\"annual\">按年付仅需 ¥350/年</p><ul><li>每月 300GB 极速流量</li><li>支持 5 台设备同时在线</li><li>全节点原生流媒体解锁</li><li>IPLC 专线游戏加速优化</li><li>7x24 优先工单支持</li></ul></article><article class=\"plan\"><h3>团队版</h3><p class=\"price\">¥85/月</p><p class=\"annual\">按年付仅需 ¥850/年</p><ul><li>每月 1000GB 极速流量</li><li>支持 20 台设备同时在线</li><li>VIP 专属高带宽节点</li><li>支持企业定制路由</li><li>专属客户经理服务</li></ul></article></div><p class=\"note\">流量为套餐周期内累计；同时在线设备数以认证会话为准。流媒体解锁效果随版权方策略变化，旗舰版与团队版优先调度原生线路。</p></section><section id=\"scenes\"><h2>使用场景</h2><h3>远程办公与协作</h3><p>跨国会议、云文档与代码仓库访问时，选择延迟更低的优化节点，保持会话稳定。团队版可按部门划分路由策略。</p><h3>学习资料与学术站点</h3><p>访问公开文献、课程平台与开发者文档时，用订阅导入常用客户端即可，无需反复切换系统代理。</p><h3>流媒体与内容浏览</h3><p>基础版覆盖常见平台入门需求；旗舰版强调原生解锁与更完整的节点池，减少地区限制带来的缓冲。</p><h3>游戏与实时通讯</h3><p>IPLC 专线面向对抖动敏感的对局与语音。建议游戏设备单独占用一条会话，避免与大流量下载抢带宽。</p></section><section id=\"guide\"><h2>操作说明</h2><h3>购买与开通</h3><p>在套餐对比中选定版本，完成支付后订阅即时生效。用户中心可查看剩余流量、设备列表与订阅地址。年付与月付权益相同，仅计费周期不同。</p><h3>导入订阅</h3><p>复制官方订阅链接，在 Clash、Shadowrocket、Quantumult X、Stash 等客户端中添加订阅并更新节点。首次导入后建议开启自动更新，以免节点调整后仍使用旧配置。</p><h3>设备管理</h3><p>同一账号可在额度内多端登录。超出同时在线数时，请在用户中心下线空闲设备，或升级至更高套餐。不要把订阅链接公开发布。</p><h3>线路选择建议</h3><p>浏览与文档类任务使用普通优化节点即可；对延迟敏感的游戏与通话优先 IPLC。若某一入口拥塞，切换同区域备用节点通常即可恢复。</p></section><section id=\"download\"><h2>客户端下载</h2><p>破烂小屋官方下载仅提供配置说明与常用客户端指引。请从系统对应渠道安装正版应用，再粘贴本站订阅。以下入口均为页内锚点，便于对照操作，不跳转外部未知来源。</p><ul><li><a href=\"#download\">Windows 桌面端</a>：安装后导入订阅，选择规则模式或全局模式。</li><li><a href=\"#download\">macOS 桌面端</a>：授予网络扩展权限后更新节点列表。</li><li><a href=\"#download\">Android 客户端</a>：建议关闭电池优化，以免后台被清理。</li><li><a href=\"#download\">iOS 客户端</a>：通过官方商店获取 Shadowrocket 等应用后添加订阅。</li><li><a href=\"#guide\">订阅导入说明</a>：与操作说明一节配合使用。</li></ul><p class=\"note\">破烂小屋不通过第三方网盘分发安装包。若页面以外出现同名下载，请以本官网信息为准。</p></section><section id=\"faq\"><h2>常见问题</h2><details><summary>破烂小屋是机场还是 VPN 客户端？</summary><p>破烂小屋首先是机场订阅服务，提供节点与流量套餐；同时支持把订阅导入主流 VPN/代理客户端完成加速。官网同时承担说明、套餐对比与客户端下载指引。</p></details><details><summary>如何获取并使用订阅链接？</summary><p>购买成功后在用户中心复制订阅地址，打开已安装的客户端，选择“添加订阅/从 URL 更新”，保存后刷新节点。不要截图或把链接发到公开群组。</p></details><details><summary>三个套餐该怎么选？</summary><p>轻度使用、设备不超过三台选基础版；日常流媒体加游戏选旗舰版；多人共享或需要定制路由选团队版。流量在周期内用尽可升级，不可结转至下一周期以外的额外额度。</p></details><details><summary>支持哪些系统与软件？</summary><p>Windows、macOS、Android、iOS 以及常见 Clash 内核工具均可。不同软件的规则语法略有差异，导入官方通用订阅后按客户端文档选择规则即可。</p></details><details><summary>连接失败或速度异常怎么办？</summary><p>先更新订阅并更换同区域节点，检查本地时间与系统代理端口是否被占用。仍异常时通过工单提交客户端日志与大致时段，旗舰版与团队版享有优先响应。</p></details><details><summary>流量、设备数如何统计？</summary><p>流量按出站实际用量累计，控制面板可查询。设备数统计的是同时保持认证的会话，不是历史绑定台数。闲置会话请及时断开。</p></details></section><section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main></div><footer><div class=\"wrap\"><div class=\"cols\"><div><h2>网站地图</h2><p class=\"map\"><a href=\"#intro\">品牌简介</a><a href=\"#plans\">套餐对比</a><a href=\"#scenes\">使用场景</a><a href=\"#guide\">操作说明</a><a href=\"#download\">客户端下载</a><a href=\"#faq\">常见问题</a><a href=\"#\">返回顶部</a></p></div><div><h2>广告位</h2><p>品牌合作、节点资源与企业定制路由投放可来信沟通。广告内容与破烂小屋套餐相互独立，购买订阅请只走官方流程。</p><p><a href=\"#\">合作咨询入口</a></p></div><div><h2>友情链接</h2><p class=\"friends\"><a href=\"#\">客户端使用手册</a><a href=\"#\">规则订阅说明</a><a href=\"#\">网络加速常识</a><a href=\"#\">工单与公告</a></p></div></div><p class=\"note\">破烂小屋官方网站 · 机场订阅与 VPN 加速器服务说明页 · 版权所有</p></div></footer>",
+          "hash": "fa14d4dfa41e9e3d810a283b5dec8be07b47eec8a3e60442e766b8a5719d421f",
+          "seo": {
+            "title": "破烂小屋官网 - VPN梯子网络加速与机场订阅客户端官方下载",
+            "keywords": "破烂小屋,破烂小屋官网,破烂小屋机场,破烂小屋VPN,VPN加速器,梯子,网络加速,机场订阅,客户端下载,官方下载,流媒体解锁,游戏加速",
+            "description": "破烂小屋提供稳定可靠的机场订阅与VPN网络加速服务，覆盖多套餐流量与设备支持，官方网站可直接下载各平台客户端并获取订阅。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "oedfc.cn",
+    "host": "p-c98bce2107.oedfc.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [
+    {
+      "host": "oedfc.cn",
+      "url": "https://oedfc.cn/",
+      "label": "养鸡场(XFSS)",
+      "apex": "oedfc.cn",
+      "kind": null,
+      "identity": "gmnmcmrqt/page-42cc3c3f001d6301502823ac"
+    },
+    {
+      "host": "fczfypm.cn",
+      "url": "https://fczfypm.cn/",
+      "label": "破烂小屋",
+      "apex": "fczfypm.cn",
+      "kind": null,
+      "identity": "ktndvbp/page-7df535658fb76f1d40351363"
+    },
+    {
+      "host": "fhsiyu.cn",
+      "url": "https://fhsiyu.cn/",
+      "label": "破烂小屋",
+      "apex": "fhsiyu.cn",
+      "kind": null,
+      "identity": "neejxxpus/page-6d8b7a1e62ea7f6c7270ae70"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "4eb534823fde58135f2a01dcacd868e952e1b48f39665f85f741f0c683b0ed05",
+    "sitemap.xml": "1b1e498a6e02ec34c9867d304e4e6dd6e8b53c67927e2a5f5a26e66f0bf0f005",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "0b3010e96b9883b29965c8348490ef89b1772c823d765b131651643546b023c0",
+    "robots.txt": "4b03e45c55258a1e37f82b2978df789b1cbe0822be31239c80fd609587526977",
+    "994dcd0647c0f35440db4be7dcc4d1c0.txt": "78fcf8d6c78ce1f959354008aab2e649db30dfa6b5e05ae991ab8308658530a0"
+  },
+  "revision": "4fe8b5c505b5e6de3d19a769d14a048824f6b2e94383a423d589dbd980ce4208"
+}
